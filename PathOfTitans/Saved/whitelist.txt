@@ -1,5 +1,0 @@
-// Alderon Id Whitelist for Path of Titans
-// Format Information
-// Alderon Id (required)
-//(EXAMPLE) 525-053-709
-
