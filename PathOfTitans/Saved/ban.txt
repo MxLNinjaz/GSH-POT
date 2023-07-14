@@ -1,0 +1,8 @@
+// Ban List for Path of Titans
+// Format Information
+// Alderon Id or IP Address (required)
+// UnixTimestamp - Ban expiration (eg epochconverter.com) - 0 = forever. If not specified, 0 is assumed
+// AdminReason - Reason the user was banned for admin purposes (Optional)
+// UserReason - Reason the user was banned (displayed to the user) (Optional)
+//(EXAMPLE) 525-053-709:0:Reason for admins here:Stay out of my server
+//(EXAMPLE) 127.0.0.1:0:KOSER:Killing people on sight
